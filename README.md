@@ -3,8 +3,8 @@
 
 # 5-Stage Pipelined ARM CPU (LEGv8 Subset)
 
-This project implements a 64-bit, 5-stage pipelined CPU in **SystemVerilog**, based on a subset of the ARMv8 (LEGv8) instruction set.  
-The pipeline includes the following stages:
+This project implements a 64-bit, 5-stage pipelined CPU in SystemVerilog, based on a subset of the ARMv8 (LEGv8) instruction set.  
+This pipeline includes the following stages:
 - Instruction Fetch (IF)
 - Instruction Decode (ID)
 - Execute (EX)
